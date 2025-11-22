@@ -1,36 +1,5 @@
-[🇫🇷](#fr) [🇬🇧](#en)
 
-<a name="fr"></a>
-# BLab PureHUD - HUD SIMPLE & ÉPURÉ
-
-![preview](https://github.com/Bast1enFR/Blab_PureHud/blob/main/view.gif)
-
-Toggle F11 • Barre GTA native désactivée • Noir mat moderne • Standalone
-
-### Features
-- Design noir mat ultra épuré
-- Barres santé / armure / endurance fluides
-- Toggle F11 (RegisterKeyMapping)
-- Auto-hide en mort / menu pause
-- Barre de vie & armure GTA native désactivée
-
-### Installation
-1. Glisser le dossier `blab_purehud` dans vos resources
-2. Ajouter `ensure blab_purehud` dans votre server.cfg
-3. Profiter
-
-### Support
-Discord : https://discord.gg/VzdUQsmu46
-Tebex (gratuit) : https://blab.tebex.io
-
-**100 % gratuit • Code source ouvert • Support à vie • Mises à jour gratuites**
-
-Made with ❤️ by BLab
-
----
-
-<a name="en"></a>
-# BLab PureHUD - SIMPLE & CLEAN HUD (ENGLISH)
+# BLab PureHUD - SIMPLE & CLEAN HUD
 
 ![preview](https://github.com/Bast1enFR/Blab_PureHud/blob/main/view.gif)
 
