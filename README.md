@@ -1,11 +1,14 @@
+[🇫🇷](#fr) [🇬🇧](#en)
+
+<a name="fr"></a>
 # BLab PureHUD - HUD SIMPLE & ÉPURÉ
 
-![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
+![preview](https://github.com/Bast1enFR/Blab_PureHud/blob/main/view.gif)
 
 Toggle F11 • Barre GTA native désactivée • Noir mat moderne • Standalone
 
 ### Features
-- Design noir mat ultra épuré (style Wasabi / rcore)
+- Design noir mat ultra épuré
 - Barres santé / armure / endurance fluides
 - Toggle F11 (RegisterKeyMapping)
 - Auto-hide en mort / menu pause
@@ -15,9 +18,6 @@ Toggle F11 • Barre GTA native désactivée • Noir mat moderne • Standalone
 1. Glisser le dossier `blab_purehud` dans vos resources
 2. Ajouter `ensure blab_purehud` dans votre server.cfg
 3. Profiter
-
-### Preview
-https://youtu.be/XXXXXXX (à remplacer par ta vidéo)
 
 ### Support
 Discord : https://discord.gg/VzdUQsmu46
@@ -29,14 +29,15 @@ Made with ❤️ by BLab
 
 ---
 
+<a name="en"></a>
 # BLab PureHUD - SIMPLE & CLEAN HUD (ENGLISH)
 
-![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
+![preview](https://github.com/Bast1enFR/Blab_PureHud/blob/main/view.gif)
 
 Toggle F11 • Native GTA bar disabled • Modern matte black • Standalone
 
 ### Features
-- Ultra-clean matte black design (Wasabi / rcore style)
+- Ultra-clean matte black design 
 - Smooth health / armor / stamina bars
 - Toggle F11 (RegisterKeyMapping)
 - Auto-hide when dead / in pause menu
@@ -47,8 +48,6 @@ Toggle F11 • Native GTA bar disabled • Modern matte black • Standalone
 2. Add `ensure blab_purehud` to your server.cfg
 3. Enjoy
 
-### Preview
-https://youtu.be/XXXXXXX (replace with your video)
 
 ### Support
 Discord: https://discord.gg/VzdUQsmu46
