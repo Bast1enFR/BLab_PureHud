@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+#hud {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    width: 280px;
+    height: 40px;
+    background: rgba(15, 15, 15, 0.85);
+    backdrop-flow: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+.bar {
+    flex: 1;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+}
+
+.bar .fill {
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+    transition: width 0.3s ease, background 0.3s ease;
+}
+
+#health .fill { background: linear-gradient(90deg, #e74c3c, #c0392b); }
+#armor .fill { background: linear-gradient(90deg, #3498db, #2980b9); }
+#stamina .fill { background: linear-gradient(90deg, #f1c40f, #e67e22); }
